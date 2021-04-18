@@ -1,7 +1,9 @@
 var express = require("express");
 // const bodyParser = require("body-parser");
 // var bodyParser = require('body-parser');
+//Express initialization
 var app = express();
+
 
 // parse application/x-www-form-urlencoded
 // app.use(bodyParser.urlencoded({ extended: false }))
